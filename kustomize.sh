@@ -1,2 +1,2 @@
-export KUSTOMIZE_PLUGIN_HOME="$(pwd)/kustomize-plugin-home"
+export KUSTOMIZE_PLUGIN_HOME="$(pwd)/plugin-home"
 kubectl kustomize --enable-alpha-plugins .
